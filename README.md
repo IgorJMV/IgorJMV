@@ -1,10 +1,10 @@
 ### Olá! Sejam bem vindos ao meu GitHub 👋
 ##
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=IgorJMV&show_icons=true&theme=cobalt" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=IgorJMV&show_icons=true&theme=cobalt" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I&show_icons=true&theme=cobalt&layout=compact" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorJMV&show_icons=true&theme=cobalt&layout=compact" />
 </a>
 
 <div style="display: inline_block"><br>
